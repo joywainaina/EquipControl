@@ -1,2 +1,2 @@
 # EquipControl
-A system to manag resources requested by employess in a company
+A system to manage resources requested by employess in a company
